@@ -89,6 +89,12 @@ I think people have done this by specifying it in their order form.
 
 TODO: figure this out
 
+## I ordered the monitor mount. I am missing some corner brackets and I have some big diamond shaped brackets instead.
+
+Simlab still has not updated the website totally. The new design uses the diamond brackets instead. The relevant schematic is here:
+
+https://sim-lab.eu/download/59259/
+
 # Accessory questions
 
 ## Do I need to buy extra hardware with my rig order?

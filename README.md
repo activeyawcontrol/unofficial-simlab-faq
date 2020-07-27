@@ -8,6 +8,10 @@ Note: I only have a GT1, not a P1-X, so I would appreciate help on some of those
 
 Note 2: This is an UNOFFICIAL FAQ. This is my best effort to consolidate knowledge on these topics. No one from Simlab was involved in the making of this FAQ.
 
+# Will this PC run iRacing? Hey check out my youtube channel / twitch stream / giveaway, don't forget to mash that subscribe button!
+
+WRONG GROUP, GO AWAY
+
 # Ordering
 
 ## When will my order arrive?

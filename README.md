@@ -109,6 +109,12 @@ You shouldn't. The regular order comes with a TON of spares.
 * Casters are highly recommended for easy rig maintenance/reconfiguration
 * TODO: add more here
 
+## What keyboard trays are out there so I can use my rig for regular computing also?
+
+* https://www.obutto.eu/en/r3volution/23-obutto-articulating-keyboard-mouse-tray-5600228673113.html
+
+TODO: see if others have made this work; I think so but will have to check the archives
+
 # Seats
 
 Remember that some of the prices for race seats include FIA certification - which includes things like fire safety, etc. You don't need an FIA certified seat for your sim rig, and buying 

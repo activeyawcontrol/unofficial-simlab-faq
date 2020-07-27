@@ -206,3 +206,20 @@ Sim Racing Garage review of the HE handbrake including mounting discussion:
 
 ## What angle should my legs be?
 
+# Decorations
+
+## I can't get the clear plastic backing off my Simlab stickers
+
+It doesn't come off. It's not one of those kinds of stickers. 
+
+## I want a cooler Simlab logo on my rig
+
+There is a person who 3D-prints cool ones. 
+
+TODO: add a link
+
+## What if I want a really cool seat design? 
+
+Talk to these folks. Expensive, but awesome!
+
+https://www.acontour-racing.de/

@@ -1,4 +1,4 @@
-# unofficial-simlab-faq
+# Unofficial SimLab FAQ
 
 I've been a member on the [Sim-Lab Owners group](https://www.facebook.com/groups/304299857073607/) on Facebook for a while.
 
@@ -102,11 +102,30 @@ You shouldn't. The regular order comes with a TON of spares.
 
 # Seats
 
+Remember that some of the prices for race seats include FIA certification - which includes things like fire safety, etc. You don't need an FIA certified seat for your sim rig, and buying 
+
 ## What are popular seat choices for the Simlab rigs?
+
+Inexpensive:
+* NRG FRP 300/301/310/311
+ * The differences between these are width based. 
+ * TODO: find my old notes on this
+* Corbeau FX1
+
+More expensive
+* SimLab 
+* Sparco
+* Racetech
+
+## I really want the SimLab seat but I'm in the US
+
+I think, maybe, that Gperformance will ship them to the US. But shipping is going to be expensive.
+
+There are similar Sparco seats available in the US - for instance, the Sparco Circuit. 
 
 ## What brackets do I need to attach my seat?
 
-Side-mount seats will need side-mount brackets. 
+Side-mount seats will need side-mount brackets. Some of the seats will come with their own brackets - for instance, my NRG seat came with brackets. 
 
 TODO: discussion of bottom mount seats
 

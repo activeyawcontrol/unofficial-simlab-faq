@@ -6,6 +6,8 @@ Facebook is fucking terrible for structuring information, and the search functio
 
 Note: I only have a GT1, not a P1-X, so I would appreciate help on some of those topics.
 
+Note 2: This is an UNOFFICIAL FAQ. This is my best effort to consolidate knowledge on these topics. No one from Simlab was involved in the making of this FAQ.
+
 # Ordering
 
 ## When will my order arrive?

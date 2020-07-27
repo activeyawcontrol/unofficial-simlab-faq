@@ -22,6 +22,10 @@ It's in bright red letters on the website. I can't answer this - none of us can.
 
 I dunno. Some limitation of the system they have currently, I guess. My GT1 was delivered 6 months ago and it still says that the order is processing.
 
+## Will I have to pay import taxes on my order? (USA)
+
+I haven't hit this yet. It may be related to the total of the order, so ordering in smaller batches might avoid it. But there doesn't seem to be any rhyme or reason to why people get hit with the import fees.
+
 # Choosing cockpits / rigs
 
 ## Which rig to start with, GT1 Evo or P1X?

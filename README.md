@@ -116,6 +116,7 @@ You shouldn't. The regular order comes with a TON of spares.
 ## What keyboard trays are out there so I can use my rig for regular computing also?
 
 * https://www.obutto.eu/en/r3volution/23-obutto-articulating-keyboard-mouse-tray-5600228673113.html
+ * as seen here: https://www.youtube.com/watch?v=-EQm5lmu8Nw&t=30s
 
 TODO: see if others have made this work; I think so but will have to check the archives
 

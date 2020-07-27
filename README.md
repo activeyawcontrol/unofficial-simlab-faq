@@ -178,3 +178,10 @@ The HE handbrake comes with a "wingman" plate designed for  mounting to 8020, so
 
 Sim Racing Garage review of the HE handbrake including mounting discussion:
 * https://www.youtube.com/watch?v=IB8bXhGm4vs
+
+# Ergonomics
+
+## What angle should I use for my triple-monitor setup?
+
+## What angle should my legs be?
+

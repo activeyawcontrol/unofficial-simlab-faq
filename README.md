@@ -67,7 +67,10 @@ Advantages of integrated:
 
 ## Will the integrated mount hold 32s?
 
-People have made this work but it may be harder to get a more wraparound angle on the monitors.
+People have made this work but it may be harder to get a more wraparound angle on the monitors without adding additional/longer profile.
+
+One post about this:
+* https://www.facebook.com/groups/304299857073607/permalink/744961093007479/
 
 TODO: have people gone bigger than 32s on the integrated mount?
 

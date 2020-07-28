@@ -206,6 +206,10 @@ Sim Racing Garage review of the HE handbrake including mounting discussion:
 
 ## What angle should my legs be?
 
+Some articles about that here
+* https://www.ricmotech.com/v/vspfiles/downloadables/Driver_Position.pdf
+* https://www.skoda-motorsport.com/en/drive-like-pro-sitting-like-racing-driver/
+
 # Decorations
 
 ## I can't get the clear plastic backing off my Simlab stickers

@@ -181,6 +181,13 @@ I still haven't found the exact corner brackets that SimLabs uses where the supp
 * 8020.net
 * Amazon
 
+## Where can I buy cable clips (besides Simlab and their retailers)?
+
+* US: 8020.net
+ * https://8020.net/12316.html
+* UK: Motedis
+ * https://www.motedis.co.uk/shop/Slot-profile-accessories/Accessoiries-40-I-Type-slot-8/Accessories-Slot-8-I-type/Cross-Cable-Binding-Block-I-Type-slot-8::99999378.html?fbclid=IwAR12xJa-DtmidlVhJCeA_W0_1TUBuBZJFqykdIg-EOCCPJrMSbl9Z3ILW-Q
+
 # Incorporating other accessories
 
 ## How do I mount the Heusinkveld Sprints to my GT1 Evo?

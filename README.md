@@ -104,7 +104,7 @@ TODO: figure this out
 
 Simlab still has not updated the website totally. The new design uses the diamond brackets instead. The relevant schematic is here:
 
-https://sim-lab.eu/download/59259/
+https://sim-lab.eu/web/content/25956?access_token=47f02083-fcb5-473d-8a6c-93c844bff609&unique=7f3ca3f841207c54fb373833ae1d722d6d05d65e&download=true
 
 # Accessory questions
 

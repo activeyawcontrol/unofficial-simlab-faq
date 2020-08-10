@@ -188,6 +188,13 @@ I still haven't found the exact corner brackets that SimLabs uses where the supp
 * UK: Motedis
  * https://www.motedis.co.uk/shop/Slot-profile-accessories/Accessoiries-40-I-Type-slot-8/Accessories-Slot-8-I-type/Cross-Cable-Binding-Block-I-Type-slot-8::99999378.html?fbclid=IwAR12xJa-DtmidlVhJCeA_W0_1TUBuBZJFqykdIg-EOCCPJrMSbl9Z3ILW-Q
 
+## Where can I buy casters (besides Simlab and their retailers)?
+
+Tnutz sells some casters that are larger/taller than the SimLab casters:
+
+* Fixed: https://www.tnutz.com/product/cas-015-r/
+* Swivel: https://www.tnutz.com/product/cas-015-s/ 
+
 # Incorporating other accessories
 
 ## How do I mount the Heusinkveld Sprints to my GT1 Evo?

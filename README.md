@@ -230,6 +230,9 @@ If you have a GT-1, you can install the legs from the P1-X for some additional h
 
 You could also install taller casters (see accessories above).
 
+More discussion of raising rigs here:
+* https://www.facebook.com/groups/304299857073607/permalink/760470681456520/
+
 # Decorations
 
 ## I can't get the clear plastic backing off my Simlab stickers

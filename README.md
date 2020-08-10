@@ -224,6 +224,12 @@ Some articles about that here
 * https://www.ricmotech.com/v/vspfiles/downloadables/Driver_Position.pdf
 * https://www.skoda-motorsport.com/en/drive-like-pro-sitting-like-racing-driver/
 
+## How can I raise my rig off the ground?
+
+If you have a GT-1, you can install the legs from the P1-X for some additional height.
+
+You could also install taller casters (see accessories above).
+
 # Decorations
 
 ## I can't get the clear plastic backing off my Simlab stickers

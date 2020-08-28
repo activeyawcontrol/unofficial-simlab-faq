@@ -195,6 +195,11 @@ Tnutz sells some casters that are larger/taller than the SimLab casters:
 * Fixed: https://www.tnutz.com/product/cas-015-r/
 * Swivel: https://www.tnutz.com/product/cas-015-s/ 
 
+## Where can I buy P1X style legs (besides Simlab and their retailers)?
+
+See this group post for a discussion
+* https://www.facebook.com/groups/304299857073607?post_id=775274636642791
+
 # Incorporating other accessories
 
 ## How do I mount the Heusinkveld Sprints to my GT1 Evo?

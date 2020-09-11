@@ -130,6 +130,10 @@ TODO: what configuration changes, exactly, have people made to support this?
 
 I think people have done this by specifying it in their order form. 
 
+## What angle should I use for my triple-monitor setup?
+
+Totally up to you. 60 degrees is good for a wraparound view with high immersion and FOV. But it also makes it harder to get in and out of your rig.
+
 # Accessory questions
 
 ## Do I need to buy extra hardware with my rig order?
@@ -264,8 +268,6 @@ Sim Racing Garage review of the HE handbrake including mounting discussion:
 * https://www.youtube.com/watch?v=IB8bXhGm4vs
 
 # Ergonomics
-
-## What angle should I use for my triple-monitor setup?
 
 ## What angle should my legs be?
 

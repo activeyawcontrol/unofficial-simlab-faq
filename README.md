@@ -203,7 +203,7 @@ Note: Simlab makes a great product at a great price. If it was convenient, I wou
 
 ## Where can I buy extra aluminum profile (besides Simlab and their retailers)?
 
-* 8020.net
+* 8020.net (they also sell on Amazon)
 
 ## Where can I buy extra corner brackets (besides Simlab and their retailers)?
 
@@ -236,6 +236,7 @@ See this group post for a discussion
 ## Where can I see some cable management tips?
 
 * https://www.facebook.com/groups/304299857073607/permalink/759052004931721/
+* Not SimLab specific: https://twitter.com/Cannibal/status/1294413895575117824
 
 # Incorporating other accessories
 

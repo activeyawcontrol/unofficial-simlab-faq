@@ -48,6 +48,11 @@ P1X:
 
 There are *tons* of people using DD wheels on their GT1s. You don't need the P1-X for direct drive.
 
+## I want to see a bunch of people's rigs
+
+GT1 gallery:
+* https://www.facebook.com/groups/304299857073607/permalink/717412022429053/
+
 # Assembly
 
 ## How do I build my rig?
@@ -59,15 +64,21 @@ Barry from Sim Racing Garage has a great video about building the GT1.
 
 He goes through the specific GT1 build here, but also covers a lot of the principles of building an 8020 rig, so it should apply equally to the P1X.
 
-TODO: are there any good build videos specific to the P1X?
+Barry from Sim Racing Garage also has a video about the P1-X which covers some of the assembly:
+
+* https://www.youtube.com/watch?v=NePNyCguqSk
 
 ## Where should I add washers?
 
 TODO: fill this in
 
+## Are there any nicer looking washers/bolts?
+
+* https://www.facebook.com/groups/304299857073607/permalink/763356944501227/
+
 # Monitor mounting questions
 
-## Should I get the standalone mount or an integrated mount?
+## Should I get the standalone monitor mount or an integrated monitor mount?
 
 Advantages of standalone:
 * You can separate the main rig from the monitors for easy rig maintenance/configuration.
@@ -78,6 +89,9 @@ Advantages of standalone:
 Advantages of integrated:
 * Arguably looks cleaner
 * Takes up less floor space
+
+Here is a group thread with pictures from both sides:
+* https://www.facebook.com/groups/304299857073607/permalink/754201812083407/
 
 ## Will the integrated mount hold 32s?
 
@@ -92,7 +106,19 @@ TODO: have people gone bigger than 32s on the integrated mount?
 
 It is *not* just the VESA plates. The 100/200 uses thicker profiles.
 
-TODO: go into more detail here
+Here's the schematic for the 75/100 mount:
+* https://sim-lab.eu/web/content/25951
+
+Here's the schematic for the 100/200 mount:
+* https://sim-lab.eu/web/content/25951
+
+Please read the next question :)
+
+## I ordered the monitor stand. I am missing some corner brackets that are in the schematic, and I have some big diamond shaped brackets instead.
+
+Simlab still has not updated the website totally. The new design uses the diamond brackets instead. The relevant schematic is here:
+
+* https://sim-lab.eu/web/content/25956
 
 ## Will the 75/100 standalone mount hold 32s?
 
@@ -104,14 +130,6 @@ TODO: what configuration changes, exactly, have people made to support this?
 
 I think people have done this by specifying it in their order form. 
 
-TODO: figure this out
-
-## I ordered the monitor mount. I am missing some corner brackets and I have some big diamond shaped brackets instead.
-
-Simlab still has not updated the website totally. The new design uses the diamond brackets instead. The relevant schematic is here:
-
-https://sim-lab.eu/web/content/25956?access_token=47f02083-fcb5-473d-8a6c-93c844bff609&unique=7f3ca3f841207c54fb373833ae1d722d6d05d65e&download=true
-
 # Accessory questions
 
 ## Do I need to buy extra hardware with my rig order?
@@ -121,15 +139,18 @@ You shouldn't. The regular order comes with a TON of spares.
 ## What accessories should I get (since ordering is kind of hard)?
 
 * Casters are highly recommended for easy rig maintenance/reconfiguration
-* TODO: add more here
+* Definitely a cupholder. Hydration is important!
 
-## What keyboard trays are out there so I can use my rig for regular computing also?
+## I use my rig for regular computing too. What keyboard trays are out there so I can use my rig for regular computing also?
 
 * https://www.obutto.eu/en/r3volution/23-obutto-articulating-keyboard-mouse-tray-5600228673113.html
  * as seen here: https://www.youtube.com/watch?v=-EQm5lmu8Nw&t=30s
 
 Maybe the Simetik one
 * https://simetik.com/web/product/keyboard-support/
+
+More group discussion of this topic here:
+* https://www.facebook.com/groups/304299857073607/permalink/757980405038881/
 
 TODO: see if others have made this work; I think so but will have to check the archives
 
@@ -155,6 +176,10 @@ More expensive
 I think, maybe, that Gperformance will ship them to the US. But shipping is going to be expensive.
 
 There are similar Sparco seats available in the US - for instance, the Sparco Circuit. 
+
+* https://www.sparcousa.com/circuit
+
+This is not an endorsement of that specific seat - just an attempt to point out that the SimLab seats, while nice, are not magic and there are many similar seats from other manufacturers.
 
 ## What brackets do I need to attach my seat?
 
@@ -206,15 +231,27 @@ Tnutz sells some casters that are larger/taller than the SimLab casters:
 See this group post for a discussion
 * https://www.facebook.com/groups/304299857073607?post_id=775274636642791
 
+# Cable management
+
+## Where can I see some cable management tips?
+
+* https://www.facebook.com/groups/304299857073607/permalink/759052004931721/
+
 # Incorporating other accessories
 
-## How do I mount the Heusinkveld Sprints to my GT1 Evo?
+## How do I mount the Heusinkveld Sprint pedals to my GT1 Evo?
 
 Make sure you have the 2020-vintage GT1 Evo pedal plate. This is a free upgrade if you purchased the GT1 previously. Earlier models are subject to flex. This plate has holes/slots that are compatible with the Sprints.
 
 The Sprints use M5 bolts. The GT1 comes with plenty of spare M6 bolts but you can't use those. I ordered some M5x16mm bolts with washers + lock nuts, from Amazon. 
 
 You do *not* need the Heusinkveld base plate - at least, you don't need it for strength. You should only need it if you want to raise your heels for comfort.
+
+## How do I mount Heusinkveld Pro pedals to my rig?
+
+M6 hardware:
+
+* https://www.facebook.com/groups/304299857073607/permalink/761114574725464/
 
 ## How do I mount the Heusinkveld handbrake to my rig?
 
@@ -258,6 +295,12 @@ It doesn't come off. It's not one of those kinds of stickers.
 There is a person who 3D-prints cool ones. 
 
 TODO: add a link
+
+## I want LEDs on my rig
+
+Some discussion of that here:
+
+* https://www.facebook.com/groups/304299857073607/permalink/766940190809569/
 
 ## What if I want a really cool seat design? 
 

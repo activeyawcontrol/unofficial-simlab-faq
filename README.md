@@ -41,19 +41,25 @@ GT1:
 P1X: 
 * More expensive
 * Has the feet which makes it taller (easier to get in and out of)
+ * Note: you can apply the P1X feet to the GT1
 * Built with even more sturdy profile than the GT1
 
 ## But I want a direct drive wheel, do I need the P1-X?
 
-There are tons of people using DD wheels on their GT1s. You don't need the P1-X for DD.
+There are *tons* of people using DD wheels on their GT1s. You don't need the P1-X for direct drive.
 
 # Assembly
 
 ## How do I build my rig?
 
-Barry from Sim Racing Garage has a great video about building the GT1. Most of the principles should apply to the P1-X.
+Barry from Sim Racing Garage has a great video about building the GT1. 
 
-* https://www.youtube.com/watch?v=33VJrFgAJ9U
+* Part 1 https://www.youtube.com/watch?v=33VJrFgAJ9U
+* Part 2 https://www.youtube.com/watch?v=KHdBvBNMoB4
+
+He goes through the specific GT1 build here, but also covers a lot of the principles of building an 8020 rig, so it should apply equally to the P1X.
+
+TODO: are there any good build videos specific to the P1X?
 
 ## Where should I add washers?
 

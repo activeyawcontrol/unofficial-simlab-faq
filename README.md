@@ -274,6 +274,9 @@ Sim Racing Garage review of the HE handbrake including mounting discussion:
 A nice video from Heusinkveld here:
 * https://www.youtube.com/watch?v=JqrNh9xdUAo
 
+Another one from Boosted Media:
+* https://www.youtube.com/watch?v=vCWOsAvZUio
+
 Some articles about that here
 * https://www.ricmotech.com/v/vspfiles/downloadables/Driver_Position.pdf
 * https://www.skoda-motorsport.com/en/drive-like-pro-sitting-like-racing-driver/

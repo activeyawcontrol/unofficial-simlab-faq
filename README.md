@@ -280,6 +280,7 @@ Another one from Boosted Media:
 Some articles about that here
 * https://www.ricmotech.com/v/vspfiles/downloadables/Driver_Position.pdf
 * https://www.skoda-motorsport.com/en/drive-like-pro-sitting-like-racing-driver/
+* https://virtualracingschool.com/academy/iracing-career-guide/season-one/ergonomics/
 
 ## How can I raise my rig off the ground?
 

@@ -248,6 +248,9 @@ See this group post for a discussion
 
 Make sure you have the 2020-vintage GT1 Evo pedal plate. This is a free upgrade if you purchased the GT1 previously. Earlier models are subject to flex. This plate has holes/slots that are compatible with the Sprints.
 
+More information on identifying the various pedal plates:
+* https://www.facebook.com/groups/304299857073607/permalink/804913817012206/
+
 The Sprints use M5 bolts. The GT1 comes with plenty of spare M6 bolts but you can't use those. I ordered some M5x16mm bolts with washers + lock nuts, from Amazon. 
 
 You do *not* need the Heusinkveld base plate - at least, you don't need it for strength. You should only need it if you want to raise your heels for comfort.
@@ -296,6 +299,8 @@ More discussion of raising rigs here:
 ## I can't get the clear plastic backing off my Simlab stickers
 
 It doesn't come off. It's not one of those kinds of stickers. 
+
+2021 update: SimLab now has proper vinyl stickers that DO peel away.
 
 ## I want a cooler Simlab logo on my rig
 
